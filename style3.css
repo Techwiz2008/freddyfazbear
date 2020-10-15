@@ -1,0 +1,15 @@
+.submit{
+    background-color: bc412b;
+    color: white;
+    text-align: center;
+    padding: 15px 32px;
+    font-size: 24px;
+    width: 100%;
+    cursor: pointer;
+}
+.submit:hover;
+    background-color:#ff654a;
+}
+th {
+    font-size: 25px
+}
